@@ -1,0 +1,13 @@
+name: group-project
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python==3.8.10
+  - numpy
+  - matplotlib
+  - pandas
+  - huggingface_hub
+  - mne
+  - pytorch
